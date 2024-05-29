@@ -33,7 +33,7 @@ const App = () => {
         {/* i have copied the same button herre , initially it would be placed at top most left of the page
         but i have used css properties, the class rposition we made it absolute so that i wont interfere with others then give it
          margin  */}
-      <button className="btn-pp" onClick={() => setTours(data)}>
+      <button className="btn-pp refresh-button" onClick={() => setTours(data)}>
             Refresh
           </button>
       </div>
