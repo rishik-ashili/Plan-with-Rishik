@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plan-with-Rishik/static/css/main.ffea73f1.css",
+    "main.js": "/Plan-with-Rishik/static/js/main.aa339b0b.js",
+    "index.html": "/Plan-with-Rishik/index.html",
+    "main.ffea73f1.css.map": "/Plan-with-Rishik/static/css/main.ffea73f1.css.map",
+    "main.aa339b0b.js.map": "/Plan-with-Rishik/static/js/main.aa339b0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffea73f1.css",
+    "static/js/main.aa339b0b.js"
+  ]
+}

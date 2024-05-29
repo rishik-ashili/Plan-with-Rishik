@@ -136,3 +136,10 @@ body {
   display: flex;
   flex-direction: column;
 }
+@media (max-width: 600px) {
+  .btn-pp {
+    margin-top: 1rem;
+    padding: 0.3rem 0.8rem;
+    font-size: 0.8rem;
+  }
+}
